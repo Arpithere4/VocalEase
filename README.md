@@ -37,7 +37,7 @@ VocalEase is a Python-based application that provides text-to-speech (TTS) and s
 
 4. Run the application:
     ```bash
-    
+    python vocalease.py
     ```
 
 ## Requirements
